@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Tiêu đề web",
     introTitle: 'phưnngáo',
-    introDesc: `emowi anh bị mù đường có thể chỉ lối thiên đường trong em:3`,
+    introDesc: `em ơi anh bị mù đường có thể chỉ lối thiên đường trong em:3`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
