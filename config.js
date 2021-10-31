@@ -12,6 +12,6 @@ const CONFIG = {
     reply: 'em không thích thì em cũng phải thích thôi bởi vì sao bởi vì anh đẳng cấp anh 10 điểm anh là Siêu Nhân<3',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'sau dịch mìn đón đi tơi he:333',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lunn <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
